@@ -1,0 +1,34 @@
+{
+  "header": {
+    "about": "Sobre mi",
+    "work": "Exp. trabajo",
+    "project": "Proyectos",
+    "contact": "Contacto"
+  },
+  "home": {
+    "subTitle": "DESARROLLADOR | FRONT END | BACK END",
+    "title": "Alexis Bedoya"
+  },
+  "about": {
+    "title": "Sobre mi",
+    "description": "Soy estudiante de Ingenieria de Sistemas en la Universidad de Cartagena, con conocimiento en aplicaciones Web React, orientado al desarrollo fullstack."
+  },
+  "workExp": {
+    "title": "Experiencia de Trabajo",
+    "downloadCV": "Descargar HV",
+    "company": {
+      "n1": {
+        "name": "Universidad de cartagena",
+        "img": "images/company/udc.png",
+        "post": "Tutor Par",
+        "dateI": "2018-2",
+        "dateF": "2019-1",
+        "description": "Trabajo de tutorias, para estudiantes repitentes con dificultades en la materia de algoritmo."
+      }
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "description": "Dentro de esta seccion se encuentran algunos proyectos relevantes"
+  }
+}
