@@ -1,5 +1,5 @@
 export enum RouteNavigation {
-  Home = '/home',
+  Home = '/',
   About = '#about',
   WorkExperience = '#work',
   Hobbys = '#project',
