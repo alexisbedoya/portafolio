@@ -9,10 +9,19 @@
     "subTitle": "DESARROLLADOR | FRONT END | BACK END",
     "title": "Alexis Bedoya"
   },
+  
+  "contact":{
+    "title": "Contacto",
+    "name":"Nombre",
+    "email":"Correo",
+    "message": "Mensaje",
+    "send":"Enviar"	
+  },
   "about": {
     "title": "Sobre mi",
     "description": "Soy estudiante de Ingenieria de Sistemas en la Universidad de Cartagena, con conocimiento en aplicaciones Web React, orientado al desarrollo fullstack."
   },
+
   "workExp": {
     "title": "Experiencia de Trabajo",
     "downloadCV": "Descargar HV",

@@ -13,6 +13,15 @@
     "title": "About Me",
     "description": "Systems Engineering student at the University of Cartagena, with knowledge in Web React applications, oriented to fullstack development."
   },
+  "contact":{
+    "title": "Contact",
+    "name":"Name",
+    "email":"Email",
+    "message": "Message",
+    "send": "Submit"
+  }
+  
+  ,
   "workExp": {
     "title": "Work Experience",
     "downloadCV": "Download CV",
