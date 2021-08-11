@@ -1,9 +1,10 @@
+
 import { Grid, Typography, Button} from "@material-ui/core";
 import { Container } from "./styled";
 import { useTranslation } from "react-i18next";
 import TextField from "@material-ui/core/TextField";
 import SendIcon from '@material-ui/icons/Send';
-import emailjs from 'emailjs-com';
+
 import { useState } from "react";
 
  
@@ -45,3 +46,4 @@ const Contact = () => {
 };
 
 export default Contact;
+

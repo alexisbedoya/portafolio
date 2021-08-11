@@ -5,6 +5,7 @@ import styled from 'styled-components';
 import About from '../container/about';
 import Works from '../container/works';
 import Projects from '../container/project';
+import Contact from '../container/contact';
 
 const DivStyled = styled('div')`
   padding-top: 150px;
@@ -26,7 +27,7 @@ const Home = () => {
         <Projects />
       </DivStyled>
       <DivStyled id='contact' data-aos='fade-up'>
-        <h1>contact</h1>
+        <Contact/>
       </DivStyled>
     </Container>
   );

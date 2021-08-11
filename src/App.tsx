@@ -14,6 +14,7 @@ import { useStateWithLocalStorage } from './hooks/useStateWithLocalStorage';
 import Home from './pages/Home';
 import Thanks from './pages/Thanks';
 import Header from './container/header';
+import CircularProgress from '@material-ui/core/CircularProgress';
 
 function App() {
   const [useDarkTheme, setUseDarkTheme] = useStateWithLocalStorage(
@@ -30,7 +31,7 @@ function App() {
       <MuiThemeProvider theme={isDarkTheme ? darkTheme : lightTheme}>
         <ThemeProvider theme={isDarkTheme ? darkTheme : lightTheme}>
           <CssBaseline />
-          <Suspense fallback='loading'>
+          <Suspense fallback={<CircularProgress/>}>
           <Header />
             <Switch>
               <Route

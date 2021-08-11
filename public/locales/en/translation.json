@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "header": {
     "about": "About Me",
@@ -39,4 +40,47 @@
     "title":"projects",
     "description":"Within this section are some relevant projects"
   }
+=======
+{
+  "header": {
+    "about": "About Me",
+    "work": "Work Experience",
+    "project": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "subTitle": "DEVELOPER | FRONT END | BACK END",
+    "title": "Alexis Bedoya"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Systems Engineering student at the University of Cartagena, with knowledge in Web React applications, oriented to fullstack development."
+  },
+  "contact":{
+    "title": "Contact",
+    "name":"Name",
+    "email":"Email",
+    "message": "Message",
+    "send": "Submit"
+  }
+  
+  ,
+  "workExp": {
+    "title": "Work Experience",
+    "downloadCV": "Download CV",
+    "company": {
+      "n1": {
+        "name": "University cartagena",
+        "img": "images/company/udc.png",
+        "post": "tutor",
+        "dateI": "2018-2",
+        "dateF": "2019-1",
+        "description": "Tutorial work for repeating students with difficulties in the subject of algorithm."
+      }
+    }
+  },  "projects": {
+    "title":"projects",
+    "description":"Within this section are some relevant projects"
+  }
+>>>>>>> d5a03372086f67bf27e92d6da958b2279f1347b5
 }
